@@ -27,11 +27,11 @@ Dataset Management: Collaborate on curating and managing datasets, implementing 
 --------
 This project till now consist of:
 # Front-end (both HTML and CSS)
-index: HOME PAGE
-404: ERROR PAGE
-forgot-password1: Forgot Password Page
-login: Login page
-registration: Registration Page
+index: HOME PAGE\n
+404: ERROR PAGE\n
+forgot-password1: Forgot Password Page\n
+login: Login page\n
+registration: Registration Page\n
 # AI
 AI MODEL
 DATASETS "
