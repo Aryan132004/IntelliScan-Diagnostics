@@ -23,6 +23,7 @@ AYUSH (Web-Dev, AI, Dataset):
 Web Development: Collaborate with Aryan on designing and implementing the user interface, with a focus on usability. Contribute to the integration of AI components within the web platform.
 AI Implementation: Work alongside Aryan in developing and implementing machine learning algorithms for diagnostic analysis. Ensure the cohesive integration of AI functionalities into the web application.
 Dataset Management: Collaborate on curating and managing datasets, implementing necessary preprocessing steps. Contribute to maintaining the quality and reliability of the dataset.
+
 --------
 This project till now consist of:
 # Front-end (both HTML and CSS)
